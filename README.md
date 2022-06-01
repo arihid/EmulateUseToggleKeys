@@ -37,7 +37,7 @@ You can post issues or do a pull request to contribute. As I am not a programmer
 
 ## Acknowledgements
 
- - [Muhammed Zakir](https://github.com/MuhammedZakir) for giving the pointers needed for this solution.
+ - [Muhammed Zakir](https://github.com/MuhammedZakir) for giving the pointers needed for this solution in this [issue](https://github.com/pqrs-org/Karabiner-Elements/issues/3100).
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
